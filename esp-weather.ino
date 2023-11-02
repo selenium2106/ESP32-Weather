@@ -83,8 +83,8 @@ const unsigned char* epd_bitmap_allArray[1] = {
 WiFiMulti wifiMulti;
 Adafruit_SSD1306 display(128, 64, &Wire, -1);
 
-const char* APIKEY = "ffbfa7f99ca8ddbee6a7d7ad199ac3ba";  // Clave API de OpenWeatherMap
-String CityID = "3688928";  // ID de la ciudad que deseas consultar en OpenWeatherMap
+const char* APIKEY = "tuAPIkey";  // Clave API de OpenWeatherMap
+String CityID = "tuIDdeciudad";  // ID de la ciudad que deseas consultar en OpenWeatherMap
 
 WiFiClient client;
 char servername[] = "api.openweathermap.org";
