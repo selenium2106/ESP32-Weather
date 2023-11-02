@@ -18,6 +18,11 @@ ID la ciudad, solo copias los números y lo pegas en el codigo
 Clave API que te dan por registrarte, también tienes que pegarla en el respectivo campo
 
 
+Video de demostración
+https://github.com/selenium2106/ESP32-Weather/assets/131538899/c30d92ef-5097-4013-870e-9a82f3ccb0ab
+
+
+
 # requisitos
 requiere las siguientes librerias:
 
